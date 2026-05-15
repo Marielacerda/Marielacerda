@@ -84,3 +84,17 @@ Perfil analítico, organizado e comunicativo, com facilidade para trabalho em eq
 </td>
 </tr>
 </table>
+
+
+
+<!-- grafico de linguagens-->
+
+
+
+<!-- info commit CENTER-->
+<p align="center">
+  <img src="https://github-streak-stats-ruby.vercel.app?user=Marielacerda&theme=dark&hide_border=false&border_radius=4&locale=pt_BR&short_numbers=false" />
+</p>
+
+<!-- Qtd viws-->
+[![Profile Views](https://komarev.com/ghpvc/?username=Marielacerda&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
