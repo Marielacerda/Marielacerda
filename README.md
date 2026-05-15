@@ -85,16 +85,33 @@ Perfil analítico, organizado e comunicativo, com facilidade para trabalho em eq
 </tr>
 </table>
 
-
-
-<!-- grafico de linguagens-->
-
-
+<!-- info linguagens + dados -->
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Marielacerda&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+</td>
+<td>
+<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Marielacerda&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=MarieLacerda&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
 
 <!-- info commit CENTER-->
 <p align="center">
   <img src="https://github-streak-stats-ruby.vercel.app?user=Marielacerda&theme=dark&hide_border=false&border_radius=4&locale=pt_BR&short_numbers=false" />
-</p>
+</p><hr>
 
 <!-- Qtd viws-->
 [![Profile Views](https://komarev.com/ghpvc/?username=Marielacerda&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
